@@ -20,7 +20,6 @@ This project demonstrates **LED control** using the **STM32F407VGT6** microcontr
 - **STM32 CubeIDE** and STM32F407G DISC1 (or equivalent board)
 - **Visual Studio 2022** or newer for the C# Windows Forms application
 - USB-UART cable or built-in virtual COM port on STM32
-- .NET Framework 4.7.2 or newer on PC
 
 ## Usage
 
